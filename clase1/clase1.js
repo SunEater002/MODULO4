@@ -70,4 +70,3 @@ let mostrarItinerario = () => {
 }
 
 mostrarItinerario();
-
