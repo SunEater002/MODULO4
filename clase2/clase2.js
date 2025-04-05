@@ -21,11 +21,11 @@ let mostrarLista = (producto) => {
     }
 };
 
-//4. Se manda a llamar la funcion mostrarLista para mostrar la lista de compras en la consola.
+//3. Se manda a llamar la funcion mostrarLista para mostrar la lista de compras en la consola.
 mostrarLista(producto); 
 
-//5. Se elimina un producto de la lista de compras utilizando el método delete del set.
+//4. Se elimina un producto de la lista de compras utilizando el método delete del set.
 producto.delete("jamon");
 
-//6. Se manda a llamar nuevamente la funcion mostrarLista para mostrar la lista de compras actualizada en la consola.
+//5. Se manda a llamar nuevamente la funcion mostrarLista para mostrar la lista de compras actualizada en la consola.
 mostrarLista(producto);
