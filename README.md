@@ -6,3 +6,5 @@
 ## 2. Estructuras de datos
 ### 2.1. Gestion de lista de compras
 
+## 3. Metodos de arreglos 
+### 3.1 Problema: Filtro y Orden de Productos de una Tienda Online
