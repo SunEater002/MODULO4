@@ -8,3 +8,7 @@
 
 ## 3. Metodos de arreglos 
 ### 3.1 Problema: Filtro y Orden de Productos de una Tienda Online
+
+## 4. Algoritmo de los 2 punteros
+### 4.1 Problema: Encuentra los Invitados que Pueden Sentarse Juntos
+
