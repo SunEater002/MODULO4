@@ -12,3 +12,6 @@
 ## 4. Algoritmo de los 2 punteros
 ### 4.1 Problema: Encuentra los Invitados que Pueden Sentarse Juntos
 
+## 5. Algoritmo Sliding Window
+### 5.1 Problema: Encontrar la Palabra Más Larga
+
